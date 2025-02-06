@@ -12,7 +12,7 @@ The concept has existed since the beginnings of programming, but the term **"Cle
 
 This book established the foundation of how to write well-structured code and remains a key reference in the industry.
 
-![robert c martin.png](<attachment:robert c martin.png>)
+![Robert C. Martin](robert%20c%20martin.png)
 
 ## **3. Why is it important to write clean code?**
 
